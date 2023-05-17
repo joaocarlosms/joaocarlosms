@@ -46,4 +46,4 @@ I'm 19 years old, I live in Rio Pomba - MG, Brazil, I'm currently studying compu
 
  <a href = "jcmedeiros04@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/joao-carlos-517500266/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href ="https://www.instagram.com/joaoc_medeiros/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
+ 
