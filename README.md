@@ -5,7 +5,7 @@
 
 I'm 19 years old, I live in Rio Pomba - MG, Brazil, I'm currently studying computer science and I've been studying programming content with a focus on Full Stack Developer.
 
-<img src="UI.gif">
+<img src="[UI.gif](https://br.pinterest.com/pin/34480753390702206/)">
 
 
 
