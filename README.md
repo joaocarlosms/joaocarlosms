@@ -5,7 +5,7 @@
 
 I'm 19 years old, I live in Rio Pomba - MG, Brazil, I'm currently studying computer science and I've been studying programming content with a focus on Full Stack Developer.
 
-<img src="https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif](https://pin.it/dGD0LWKag](https://pin.it/dGD0LWKag)](https://tenor.com/pt-BR/view/loading-now-loading-complete-loading-complete-loading-finish-gif-16638034">
+<img src="30f4ce.gif](https://pin.it/dGD0LWKag](https://pin.it/dGD0LWKag)](https://tenor.com/pt-BR/view/loading-now-loading-complete-loading-complete-loading-finish-gif-16638034">
 
 
 
