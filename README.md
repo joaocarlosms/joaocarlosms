@@ -18,6 +18,7 @@ I'm 19 years old, I live in Rio Pomba - MG, Brazil, I'm currently studying compu
 <img src ="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 <img src ="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
 <img src ="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src ="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </div>
 
 ## Currently learning:
@@ -25,8 +26,6 @@ I'm 19 years old, I live in Rio Pomba - MG, Brazil, I'm currently studying compu
 <div>
 
 <div>
-
-<img src ="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 <i class="devicon-react-original colored"></i>
