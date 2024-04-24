@@ -34,8 +34,10 @@ I'm 19 years old, I live in Rio Pomba - MG, Brazil, I'm currently studying compu
 <img src="https://devicons.dev.br/icons?icon=Java&theme=dark">
 <img src="https://devicons.dev.br/icons?icon=Spring&theme=dark">
 <img src="https://devicons.dev.br/icons?icon=PostgreSQL&theme=dark">
-          
-          
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
+
+
           
           
 
