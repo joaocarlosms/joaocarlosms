@@ -11,7 +11,6 @@ I'm 19 years old, I live in Rio Pomba - MG, Brazil, I'm currently studying compu
 
 ## Skills:
 <div>
-
 <img src ="https://devicons.dev.br/icons?icon=HTML&theme=dark">
 <img src ="https://devicons.dev.br/icons?icon=CSS&theme=dark">
 <img src ="https://devicons.dev.br/icons?icon=Figma&theme=dark">
@@ -31,10 +30,8 @@ I'm 19 years old, I live in Rio Pomba - MG, Brazil, I'm currently studying compu
 <img src ="https://devicons.dev.br/icons?icon=Django&theme=dark">
 <img src="https://devicons.dev.br/icons?icon=AWS&theme=dark">
 <img src="https://devicons.dev.br/icons?icon=Bootstrap&theme=dark">
-<img src="https://devicons.dev.br/icons?icon=Java&theme=dark">
-<img src="https://devicons.dev.br/icons?icon=Spring&theme=dark">
 <img src="https://devicons.dev.br/icons?icon=PostgreSQL&theme=dark">
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="ReactJS Icon" style="width: 48px; height: 48px;">
 
 
           
