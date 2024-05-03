@@ -5,7 +5,7 @@
 
 I'm 19 years old, I live in Rio Pomba - MG, Brazil, I'm currently studying computer science and I've been studying programming content with a focus on Full Stack Developer.
 
-<img src="https://i.pinimg.com/originals/91/1d/91/911d914aaf6194489a3f5626bed2bd3a.gif">
+<img src="https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif">
 
 
 
@@ -35,7 +35,6 @@ I'm 19 years old, I live in Rio Pomba - MG, Brazil, I'm currently studying compu
 <img src="https://devicons.dev.br/icons?icon=Spring&theme=dark">
 <img src="https://devicons.dev.br/icons?icon=PostgreSQL&theme=dark">
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
 
 
           
