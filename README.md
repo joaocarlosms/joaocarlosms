@@ -32,16 +32,6 @@ I'm 20 years old, I live in Rio Pomba - MG, Brazil, I'm currently studying compu
 <img src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" style="width: 45px; height: 45px;">
 
 
-          
-          
-
-<p> 
-     <br>
-</p>
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoCarlos&show_icons=true&theme=transparent)
-
 <p> 
      <br>
 </p>
