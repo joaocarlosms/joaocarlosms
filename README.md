@@ -26,10 +26,7 @@ I'm 20 years old, I live in Rio Pomba - MG, Brazil, I'm currently studying compu
 <img src ="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" style="width: 48px; height: 48px"v>
 <img src ="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" style="width: 45px; height: 45px;">
 <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" style="width: 45px; height: 45px;">     
-<img src="https://user-images.githubusercontent.com/25181517/117207493-49665200-adf4-11eb-808e-a9c0fcc2a0a0.png"  style="width: 45px; height: 45px;">
 <img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" style="width: 45px; height: 45px;">
-<img src="https://user-images.githubusercontent.com/25181517/190229463-87fa862f-ccf0-48da-8023-940d287df610.png" style="width: 45px; height: 45px;">
-<img src="https://user-images.githubusercontent.com/25181517/117533873-484d4480-afef-11eb-9fad-67c8605e3592.png" style="width: 45px; height: 45px;">
 
 <p> 
      <br>
