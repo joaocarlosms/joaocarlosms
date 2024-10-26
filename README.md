@@ -36,8 +36,13 @@ I'm 20 years old, I live in Rio Pomba - MG, Brazil, I'm currently studying compu
 
 <div> 
 
-##### **Thanks for visit my profile, case you liked, send me a message😀** contacts 📭 :
+##### **Thanks for visit my profile, case you liked, send me a message 😀** 
+contacts 📭 :
 
- <a href = "jcmedeiros04@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/joao-carlos-517500266/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div>
+     
+[![Email](https://img.shields.io/badge/Mail-black?style=flat-square&logo=gmail)](jcmeseverino@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedIn&logoColor=0073B1)]([https://linkedin.com/in/edu-amr](https://www.linkedin.com/in/jo%C3%A3o-carlos-517500266/))
+
+</div>
  
