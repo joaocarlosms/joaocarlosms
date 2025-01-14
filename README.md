@@ -3,7 +3,7 @@
 
 
 
-I'm 20 years old, I live in Rio Pomba - MG, Brazil, I'm currently studying computer science and I've been studying programming content with a focus on Full Stack Developer.
+I'm 20 years old, I live in Rio Pomba - MG, Brazil, I'm currently studying computer science at Federal Institute of Minas Gerais and I've been studying programming content with a focus on Full Stack Developer.
 
 
 
