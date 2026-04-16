@@ -12,10 +12,6 @@ I'm 21 years old, I live in Rio Pomba - MG, Brazil, I'm currently studying compu
 ## Currently learning:
 [![My Skills](https://skillicons.dev/icons?i=aws&theme=dark)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=docker&theme=dark)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=opencv&theme=dark)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=pytorch&theme=dark)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=tensorflow&theme=dark)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=fastapi&theme=dark)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=kafka&theme=dark)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=mongodb&theme=dark)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=postgres&theme=dark)](https://skillicons.dev)
