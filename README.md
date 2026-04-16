@@ -1,6 +1,6 @@
 # Hello, guys!! My name is João Carlos! 
 **Welcome to my github profile ✨**
-I'm 22 years old, I live in Rio Pomba - MG, Brazil, I'm currently studying computer science at Federal Institute of Minas Gerais and I've been studying programming content with a focus on Full Stack Developer and ML Engineer/MLOps.
+I'm 22 years old, I live in Rio Pomba - MG, Brazil, I'm currently studying computer science at Federal Institute of Minas Gerais and I've been studying programming content with a focus on Full Stack Developer.
 ## Skills:
 [![My Skills](https://skillicons.dev/icons?i=cpp&theme=dark)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=python&theme=dark)](https://skillicons.dev)
