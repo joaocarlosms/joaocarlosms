@@ -17,7 +17,7 @@ I'm 22 years old, I live in Rio Pomba - MG, Brazil, I'm currently studying compu
 [![My Skills](https://skillicons.dev/icons?i=jest&theme=dark)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=kafka&theme=dark)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=mongodb&theme=dark)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=terraform&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=terraform&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=redis&theme=dark)](https://skillicons.dev)
 <p> 
      <br>
