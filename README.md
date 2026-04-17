@@ -4,14 +4,17 @@ I'm 22 years old, I live in Rio Pomba - MG, Brazil, I'm currently studying compu
 ## Skills:
 [![My Skills](https://skillicons.dev/icons?i=cpp&theme=dark)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=python&theme=dark)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=java&theme=dark)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=html&theme=dark)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=css&theme=dark)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=spring&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nestjs&theme=dark)](https://skillicons.dev)
+
 ## Currently learning:
 [![My Skills](https://skillicons.dev/icons?i=aws&theme=dark)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=docker&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=graphql&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=jest&theme=dark)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=kafka&theme=dark)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=mongodb&theme=dark)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=postgres&theme=dark)](https://skillicons.dev)
